@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**sanchezpili6/sanchezpili6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Teia Cloud], a CRM for pest control companies
+- 🌱 I’m currently learning React
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: If I wasn't a developer I'd like to be a mycologist
 
-Here are some ideas to get you started:
+### My github stats:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanchezpili6&count_private=true&show_icons=true&theme=radical
+)](https://github.com/sanchezpili6/github-readme-stats)
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+
+
+[Teia Cloud]: https://www.teia.cloud/
+[linkedin]: https://www.linkedin.com/in/sanchezpili6/
+[mail]: mailto:sanchezpili6@gmail.com
+
