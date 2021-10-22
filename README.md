@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Cretia], a CRM for pest control companies
 - 🌱 I’m currently learning React
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: If I wasn't a developer I'd like to be a mycologist
+- ⚡ Fun fact: I want to be both an SE and a Mycologyst 
 
 ### My github stats:  
 
