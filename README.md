@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Urbvan]
+- 🔭 I’m currently working at [Urbvan]
 - 🌱 I’m currently learning React
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I want to be both an SE and a Mycologyst 
