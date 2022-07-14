@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [Urbvan]
+- 🔭 I’m currently working at [Trii]
 - 🌱 I’m currently learning React
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I want to be both an SE and a Mycologyst 
@@ -19,7 +19,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 
 
-[Urbvan]: https://urbvan.com/
+[Trii]: https://trii.co/
 [linkedin]: https://www.linkedin.com/in/sanchezpili6/
 [mail]: mailto:sanchezpili6@gmail.com
 
