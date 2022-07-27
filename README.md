@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at [Trii]
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Rust
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I want to be both an SE and a Mycologyst 
 
