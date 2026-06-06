@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [Etsy]
-- 🌱 I’m currently learning Rust
+- 🌱 I’m getting a diploma in educational psychology
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I want to be both an SE and a Mycologyst 
+- ⚡ Fun fact: I want to be both an SE and a Mycologist 
 
-### My github stats:  
+### My GitHub stats:  
 
 <p><img align="center" style="margin:10px" src="https://github-readme-streak-stats.herokuapp.com?user=sanchezpili6&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="sanchezpili6" /></p>
 
